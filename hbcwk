@@ -1,0 +1,93 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Skills
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+ </head>
+ <body class="bg-white text-black font-sans">
+  <div class="container mx-auto p-4">
+   <div class="flex items-center">
+    <div class="bg-[#2563eb] text-white font-bold py-2 px-4 rounded-l-lg">
+     Skills
+    </div>
+    <div class="flex-grow border-t border-[#2563eb]">
+    </div>
+   </div>
+   <div class="text-center mt-4">
+    <h1 class="text-3xl font-bold text-[#2563eb]">
+     What I do
+    </h1>
+    <p class="mt-2 text-gray-600">
+     I am from Pakistan and currently living in Kuwait. I am doing Bachelors in Software Engineering and will graduate in the year 2023. I am a UI/UX designer and currently working as a freelancer.
+    </p>
+   </div>
+   <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 mt-8">
+    <div class="flex flex-col items-center">
+     <img alt="HTML5 logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/suoK3N8eYA36SiG2A7PSTljDOeELfoQE1HuheAIcMJEoTGcPB.jpg" width="100"/>
+     <p class="mt-2">
+      HTML
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="CSS3 logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/9DiK3pDxleULVSbFeYLzAhnkURXSyGQIoVmroDwaweYrJDunA.jpg" width="100"/>
+     <p class="mt-2">
+      CSS
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="Sass logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/LBVM5LsW0WpuHpZdSTlV7itwUgM8Zm8WrQVNNiil4tCOZw9E.jpg" width="100"/>
+     <p class="mt-2">
+      SASS
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="JavaScript logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/YmDiocxnnbZ5Dtgahgt4r2jr1YgEjkemr8351wYDrf9ykB3TA.jpg" width="100"/>
+     <p class="mt-2">
+      JAVASCRIPT
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="ReactJS logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/6Lsc6dR2zaLuCJiOfVfIxEFPoK9cQhtE65zolefxtVJnTGcPB.jpg" width="100"/>
+     <p class="mt-2">
+      REACT JS
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="GitHub logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/usor66MCjDoJDtuLu3yMyIC0X7rIjVmyzdiTiz2LYrCPZw9E.jpg" width="100"/>
+     <p class="mt-2">
+      GITHUB
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="NodeJS logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/d9GIpqS5MW7RP5yMlIKeKlyEq8wD2vsIR5zUFgunfaW3kB3TA.jpg" width="100"/>
+     <p class="mt-2">
+      NODE JS
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="Firebase logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/qlCySPhPBR5eKi638eUb2CxYLDOjGREdz4cJfP5NR5r2JDunA.jpg" width="100"/>
+     <p class="mt-2">
+      FIREBASE
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="MongoDB logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/moKlGF93cOpvK5olUupakc1j5H4m2aftS5SwWYSGbFTfkB3TA.jpg" width="100"/>
+     <p class="mt-2">
+      MONGODB
+     </p>
+    </div>
+    <div class="flex flex-col items-center">
+     <img alt="Docker logo" class="w-16 h-16" height="100" src="https://storage.googleapis.com/a1aa/image/lCCL6XLdbfwjLCBNpHYeUOK6w1IKHbMmuzc8aFpfE5QpJDunA.jpg" width="100"/>
+     <p class="mt-2">
+      DOCKER
+     </p>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
